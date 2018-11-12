@@ -1,0 +1,10 @@
+=================================== Summary ===================================
+
+  Ramachandran outliers =   0.00 %
+                favored =  91.72 %
+  Rotamer outliers      =   0.66 %
+  C-beta deviations     =     0
+  Clashscore            =   0.00
+  RMS(bonds)            =   0.0211
+  RMS(angles)           =   2.03
+  MolProbity score      =   1.00
